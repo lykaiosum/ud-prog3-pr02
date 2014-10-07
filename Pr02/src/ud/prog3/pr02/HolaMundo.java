@@ -4,6 +4,8 @@ public class HolaMundo {
 
 	public HolaMundo() {
 		// TODO Auto-generated constructor stub
+		
+		System.out.println("HOLA");
 	}
 
 }
